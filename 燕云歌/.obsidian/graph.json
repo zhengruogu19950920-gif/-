@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:索引 -tag:世界观 -tag:故事结构 -tag:前传/创作实录 -tag:前传/计划 -tag:前传/创作计划 -tag:前传/草稿 -tag:前传/框架 -tag:前传/素材 -tag:前传/进度管理 -tag:前传/反馈 -tag:故事碎片 -path:docs -path:hooks -path:skills -path:tests -path:agents -path:logs -path:.claude -path:commands -path:AI对话记录 -path:故事碎片 -file:燕云歌设定集_进度汇总 -file:双AI小说创作分工协作指南",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:人物  ",
+      "color": {
+        "a": 1,
+        "rgb": 15897932
+      }
+    },
+    {
+      "query": "tag:兵器",
+      "color": {
+        "a": 1,
+        "rgb": 7864319
+      }
+    },
+    {
+      "query": "tag:武学",
+      "color": {
+        "a": 1,
+        "rgb": 8114023
+      }
+    },
+    {
+      "query": "tag:组织  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 0.650169310283372,
+  "lineSizeMultiplier": 2.38276599536624,
+  "collapse-forces": false,
+  "centerStrength": 0.996257351630725,
+  "repelStrength": 10,
+  "linkStrength": 0.7109375,
+  "linkDistance": 305,
+  "scale": 1.3732789609209142,
+  "close": false
+}

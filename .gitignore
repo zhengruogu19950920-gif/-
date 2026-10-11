@@ -1,0 +1,10 @@
+node_modules/
+.smart-env/
+.claude/
+.obsidian/workspace*.json
+.obsidian/plugins/remotely-save/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
+}

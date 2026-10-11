@@ -24,10 +24,10 @@
     "RELEASE-NOTES.md",
     ".claude/",
     "archive/",
-    "AI对话记录/",
+    "燕云歌及前传小说创作项目/05-创作记录/AI对话记录/",
     "outputs/",
     "commands/",
-    "故事碎片/",
+    "燕云歌及前传小说创作项目/04-故事碎片/",
     "双AI小说创作分工协作指南_OPUS与Cline.md",
     "BRAINSTORM.md",
     "EXECUTE-PLAN.md",
@@ -42,7 +42,7 @@
     "00-人物总览.md"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "燕云歌及前传小说创作项目/06-附件与归档/图片",
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
   "promptDelete": false

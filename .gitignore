@@ -1,8 +1,8 @@
 node_modules/
 .smart-env/
 .claude/
-.obsidian/workspace*.json
-.obsidian/plugins/remotely-save/
+**/.obsidian/workspace*.json
+**/.obsidian/plugins/remotely-save/
 .env
 .env.*
 !.env.example
